@@ -338,7 +338,7 @@
 				Copyright&copy;2020. Design by
 				<a href="">XXX</a>
 			</div>
-			<script type='text/javascript' src='statics/js/jquery.min.js'></script>
+			<script type='text/javascript' src='statics/js/JQuery.js'></script>
 			<script type='text/javascript' src='statics/js/plugins.js'></script>
 			<script type='text/javascript' src='statics/js/script.js'></script>
 			<script type='text/javascript' src='statics/js/particles.js'></script>
